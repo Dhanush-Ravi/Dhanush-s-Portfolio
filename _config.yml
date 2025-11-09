@@ -21,9 +21,9 @@
 title: Dhanush's Portfolio
 email: dhanushravee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal portfolio site built using Jekyll with Ruby, jQuery, Swup, Swiper, Isotope, Three.js, and anime.js. 
+  I’m Dhanush, the Hacker your friends told you about. I break things. I fix things. Sometimes both at once. Security researcher. Bug hunter. Builder of things that defend, breaker of things that pretend.From drone forensics to defence-sector cyber ops, from CTF flags to DevSecOps pipelines — I make systems confess what they are not programmed to. I speak in packets, think in payloads, and sleep with Burp open. CTF junkie. Offensive security nerd. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dhanushravi.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
